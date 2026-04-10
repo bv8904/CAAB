@@ -25,14 +25,3 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Dataset folders (large files)
-UTKFace/
-crop_part1/
-utkface_aligned_cropped/
-organized_data/
-
-# Model files
-models/*.h5
-models/*.keras
-models/*.pkl
